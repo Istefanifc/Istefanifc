@@ -6,7 +6,7 @@
   <a href="https://github.com/Istefanifc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=istefanifc&show_icons=false&theme=rose&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istefanifc&layout=compact&langs_count=16&theme=rose"/>  
-  <img align="right" alt="bonequinha" src="https://cdn.discordapp.com/attachments/958165284726911016/1210698059835768863/ministerny.webp?ex=65eb816f&is=65d90c6f&hm=41614863c9cebb704e6f4314edfb5e69afed5b91e0d91f5f7935ba3a53091b4b&" height="300" width="300">
+  
 </div>
    
 ##
